@@ -9,7 +9,6 @@ Texture texture_cb;
 
 int main() {
 
-
 	sf::RenderWindow App(sf::VideoMode(800, 800, 32), "Tablero de Ajedrez");
 
 	texture_cw.loadFromFile("Unidad3_Assets/chessw.png");
