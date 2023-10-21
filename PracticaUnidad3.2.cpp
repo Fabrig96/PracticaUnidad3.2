@@ -15,7 +15,7 @@ int main() {
 	texture_cb.loadFromFile("Unidad3_Assets/chessb.png");
 
 	sf::Sprite sprite_cw(texture_cw);  //Sprite casilla blanca
-	sf::Sprite sprite_cb(texture_cb);  //Spirte casilla negra
+	sf::Sprite sprite_cb(texture_cb);  //Sprite casilla negra
 
 	std::vector<sf::Sprite> spritesCw; // Vector que almacena sprites de casillas blancas
 	std::vector<sf::Sprite> spritesCb; // Vector que almacena sprites de casillas negras
