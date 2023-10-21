@@ -1,4 +1,4 @@
-//MAVI - Unidad 3 - Ejercicio2
+//MAVI - Unidad 3 - Ejercicio 2
 #include <SFML/Window.hpp>
 #include <SFML/Graphics.hpp>
 #include <vector>
